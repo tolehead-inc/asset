@@ -1,0 +1,41 @@
+AIzaSyA7R5p-YFFBzqUPgdoRNfkYi97OE26SUPw
+AIzaSyDF5bEsChmi09fa9nf1IBLuETDiOHURyHg
+AIzaSyAYNQuj9RCNi-U5_yoLQ6ol86Znn9uU0aw
+AIzaSyCbBEA6pM9BP7Uhn1vr9xWhEmcmy_2GD2c
+AIzaSyDuLXDCnTWgIDQWW9aEwqTzagL6pz0UQVk
+AIzaSyDKSSZ8tsY0XdktY3LBrZMwoyTs5KWHOwM
+AIzaSyBLbuRPMZxzjux_rdSyYbaaW6P1uS4LA9I
+AIzaSyBejkLcNgAUDHb-PPiqDASp0wZPs_s2Etg
+
+apa bisa membuat halaman home yang berisi link-link hasil generate tersebut
+buat card agar rapi dan sama besar. tambahkan notif dengan interfal random jika ada iklan baru jika notif di klik akan menuju ke salah satu link yang sudah dibuat
+bisa dikasih warna untuk notifnya tambahkan suara juga sepertinya bagus
+
+<div style="text-align: center; margin: 0px 0;">
+  <a href="https://wa.me/6281222555598" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/Minimalist%20Big%20Paper%20Mockup%208.png" 
+      alt="Banner Iklan" 
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+</div>
+
+
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/Minimalist%20Big%20Paper%20Mockup%208.png
+
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/banner-100.gif
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/logo-merah.jpg
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/qris-warna.jpg
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/qris-bl.jpg
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/desain-grafis-murah-1024x308.gif
+
+web
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side1.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side2.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side3.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side4.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side5.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side6.png
+https://raw.githubusercontent.com/tolehead-inc/asset/refs/heads/main/side7.png
+
